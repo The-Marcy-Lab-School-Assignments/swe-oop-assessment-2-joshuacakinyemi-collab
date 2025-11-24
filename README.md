@@ -89,13 +89,13 @@ npm run lint
 Before submitting your assessment, go through this checklist to ensure you haven't missed any critical details!
 
 **Submission Checklist:**
-- [ ] All questions in `src/short-response.md` are answered
-- [ ] All functions in `src/from-scratch.js` are written
-- [ ] All links are provided in `src/system-design.md` are fixed
-- [ ] Short responses have been proofread and cleared of any typos or grammar mistakes.
-- [ ] Run `npm run lint` - fix any errors
-- [ ] Remove any `console.log` statements used for debugging
-- [ ] Remove any commented-out code
+- [✓] All questions in `src/short-response.md` are answered
+- [✓] All functions in `src/from-scratch.js` are written
+- [✓] All links are provided in `src/system-design.md` are fixed
+- [✓] Short responses have been proofread and cleared of any typos or grammar mistakes.
+- [✓] Run `npm run lint` - fix any errors
+- [✓] Remove any `console.log` statements used for debugging
+- [✓] Remove any commented-out code
 
 **How to Submit:**
 
